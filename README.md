@@ -12,10 +12,9 @@ Este proyecto esta hecho para llevar acabo una administracion de adopciones
 - Mongoose
 - JWT
 
-## Genereales
+## Generales
 Este codigo sirve para hacer citas, dandonos funciones de agregar una cita, editar una cita, cancelar una cita, listar citas
 y editar las fotos de los usuarios
-
 
 
 
@@ -39,8 +38,11 @@ y editar las fotos de los usuarios
   
   {
   "date": "2028-12-15T14:24:00.0000",
+  
   "status": "CREATED",
+  
   "pet": "67aab8138f218b195e381c28",
+  
   "user": "67aab5688f218b195e381c21"
 }
 
